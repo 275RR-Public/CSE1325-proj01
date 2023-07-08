@@ -8,6 +8,7 @@ ___
 
 ## Project Phase I
 See original .pdf that is committed above as [cse1325_project_phase_i-1.pdf](https://github.com/275RR-Public/CSE1325-proj01/blob/main/cse1325_project_phase_i-1.pdf).
+
 See created UML diagram committed above as [UML_png.drawio.png](https://github.com/275RR-Public/CSE1325-proj01/blob/main/UML_png.drawio.png).
 
 ### Description

@@ -21,7 +21,7 @@ public class PlayerTest {
 
         Weapon wpn2 = new Weapon("Long Sword", "2d6", 1);
         Player p2 = new Player("Lisa", wpn2, 200, 10, 5, 5, 5, 3);
-        Player p3 = new Player("Bob", wpn2, 1, 3, 2, 2, 2, 1);
+        Player p3 = new Player("Bob", wpn2, 4, 3, 2, 2, 2, 1);
         
         System.out.println("* toString(): *");
         System.out.println(p1);

@@ -3,6 +3,8 @@
 // vs code fix - files in the correct directory, press F1 and type in "Java: Clean Java Language Server Workspace"
 // bash delete help.    view.   find . -type f -name "*.class" -print
 //                      del.    find . -type f -name "*.class" -delete
+// windows(and older java): javac -encoding UTF-8 Game.java
+// windows:enviroment var:system:create new: JAVA_TOOL_OPTIONS=-D"file.encoding=UTF8"
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
